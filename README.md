@@ -92,6 +92,6 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - A site to learn about Web3 solidity security training on Foundry.
 - [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - A site that uses real past DeFi hack incidents to let you recreate how the hacks happened and how to secure them.
-- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
 
 
